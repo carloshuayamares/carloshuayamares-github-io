@@ -12,21 +12,19 @@ class Footer extends Component {
     return (
       <footer>
 
-     <div className="row">
-        <div className="twelve columns">
-           <ul className="social-links">
-              {networks}
-           </ul>
-
-           <ul className="copyright">
-              <li>&copy; Copyright 2022 Carlos Huayamares</li>
-              <li>Design by <a href="http://www.styleshout.com/">Styleshout</a></li>
-           </ul>
-
+        <div className="row">
+          <div className="twelve columns">
+            <ul className="social-links">
+                {networks}
+            </ul>
+            <ul className="copyright">
+                <li>&copy; Copyright 2022 Carlos Huayamares</li>
+                <li>Design by <a href="http://www.styleshout.com/">Styleshout</a></li>
+            </ul>
+          </div>
+          <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
         </div>
-        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
-     </div>
-  </footer>
+      </footer>
     );
   }
 }

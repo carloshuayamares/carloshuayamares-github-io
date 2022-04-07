@@ -19,7 +19,7 @@ class Contact extends Component {
       <section id="contact">
          <div className="row section-head">
             <div className="columns">
-                  <p className="lead">{message}</p>
+               <p className="lead">{message}</p>
             </div>
          </div>
 
@@ -46,8 +46,6 @@ class Contact extends Component {
                </p>
             </div>
          </div>
-
-
       </section>
     );
   }
