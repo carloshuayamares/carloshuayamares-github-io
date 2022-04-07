@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Carlos Huayamares",
+    "occupation": "Full Stack Developer",
+    "description": "where I use JavaScript to develop on BackEnd and EJS for FrontEnd. I am passionate about hitting keyboards 😎💻 and have a keen eye for spotting missing characters 😉🙌",
+    "work": "UNCODEIT EIRL ",
+    "image": "logoHuayamares.jpg",
+    "bio": "I am passionate about technology, open to new development trends. I always give my best in my work to feel happy with myself and enjoy the usefulness that my development generates together with the work team. I am interested in JavaScript and related technologies that improve its use. I currently work with NodeJS for the Telecommunications sector, with functions such as automation of remote configurations and management of telecommunications equipment, REST integrations and data extraction.",
+    "contactmessage": "Connect with me! ... 📨",
+    "email": "carlos.huayamares.d@uni.pe",
+    "phone": "+51 992 814 161",
+    "address": {
+      "street": "Lima",
+      "city": "Lima",
+      "state": "Perú",
+      "zip": ""
+    },
+    "education": [
+      {
+        "school": "National University of Engineering",
+        "degree": "Telecommunication Engineering Graduate",
+        "graduated": "August 2021",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "website": "./CarlosHuayamaresCV2022.pdf",
+    "resumedownload": "./CarlosHuayamaresCV2022.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/carloshuayamares/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/carloshuayamares",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I currently work with NodeJS for the Telecommunications sector, in addition to sometimes using integrations with Python through API's. I’m interested in JavaScript and related technologies that improve its use. ",
+    "education": [
+      {
+        "school": "National University of Engineering",
+        "degree": "Telecommunication Engineering Graduate",
+        "graduated": "August 2021",
+        "description": "Here I graduated from a Telecommunications Engineering degree and achieved a much more complete training in the theory and concepts behind networks and their virtualization. It was here that I learned the great importance of programming for networks as a scalability and monitoring solution, since it helps us reduce the efforts that are normally made in a common network by centralizing control. Thanks to this I discovered my passion for programming and development, for the security behind computer systems, and I discovered that I have a special ability to understand complex algorithms."
+      }
+    ],
+    "work": [
+      {
+        "company": "UNCODEIT",
+        "title": "Full Stack Developer ",
+        "years": "May 2021 - Present",
+        "description": "Full Stack Developer in the Telecommunications Sector. With functions such as automation of remote configurations and management of telecom equipment, REST integrations and data extraction.",
+        "extra1": "\nResponsible for developing and deploying web services in JavaScript (Node.JS) using database models.",
+        "extra2": "\nResponsible for designing the Fronted to facilitate the visualization of the resources and scope of the client's internal network.",
+        "extra3": "\nResponsible for of monitoring the server where the activities are carried out and where the data is stored."
+      },
+      {
+        "company": "OPTICAL NETWORKS",
+        "title": "Network Analyst Assistant ",
+        "years": "Feb 2021 - May 2021",
+        "description": "Network Analyst Assistant. Where we provided 24/7 technical support to our corporate clients.",
+        "extra1": "Responsible for the installation and configuration of the Internet service and security requested by the client",
+        "extra2": "Responsible for the enhancement of telecommunications equipment of various brands and models that returned to the company after completing their cycle within the customer's circuit.",
+        "extra3": "Incident area assistant, where we provide 24/7 technical support to solve problems for our clients immediately."
+      },
+      {
+        "company": "PROYECTNET",
+        "title": "Pre-professional Intern in Networks and Computer Security ",
+        "years": "Feb 2020 - Jun 2020",
+        "description": "Pre-professional Intern in Networks and Computer Security. Configurations and quality support in the company's internal network.",
+        "extra1": "Assistant in the area of configuration, support and deployment of internal customer networks.",
+        "extra2": "Technical support in the area of logistics and supply of telecommunications products for the company.",
+        "extra3": "Assistant in the pre-sales area, promoting telework and tele-education technologies to potential clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "Node.Js",
+        "level": "80%"
+      },
+      {
+        "name": "Nest with Node.JS",
+        "level": "60%"
+      },
+      {
+        "name": "Express with Node.JS",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Typescript",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Atom",
+        "category": "Dashboard to manage the resources and equipment of the telecommunications network deployed by Entel.",
+        "image": "atom-proyect-2.png",
+        "url": "https://github.com/carloshuayamares"
+      },
+      {
+        "title": "Comming Soon",
+        "category": "Coming soon I'll upload my projects.",
+        "image": "commingSoon.jpeg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Controlling complexity is the essence of programming",
+        "user": "Brian Kernigan"
+      }
+    ]
+  }
+}
